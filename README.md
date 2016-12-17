@@ -27,5 +27,10 @@ With love,
 Team Go.
 
 
+----
+Minor changes made to enable deployment on Heruko.  
+  
+Changes made by Marwan Alani.  
+
 
 
