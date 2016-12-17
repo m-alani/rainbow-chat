@@ -28,7 +28,8 @@ Team Go.
 
 
 ----
-Minor changes made to enable deployment on Heruko.  
+  
+Minor changes made to enable deployment on Heroku.  
   
 Changes made by Marwan Alani.  
 
